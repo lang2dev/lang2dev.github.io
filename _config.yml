@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ko-KR
-title: 매일 조금씩 발전하는 삶
+title: 매일 조금씩 발전하는 삶🤸‍♀
 email: dientes8520@gmail.com
 description: lang2dev's blog
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -82,4 +82,4 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: 
