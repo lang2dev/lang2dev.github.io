@@ -20,7 +20,7 @@ description: 개발하는 국문학도
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://lang2dev.github.io/"
 author: YIKyeongEun
-  name: 이경은
+  name: "이경은"
   twitter:
   picture:
 twitter_username:
