@@ -19,8 +19,8 @@ email: dientes8520@gmail.com
 description: 개발하는 국문학도
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://lang2dev.github.io/"
-author: YIKyeongEun
-  name: 
+author:
+  name: YIKyeongEun
   twitter:
   picture:
 twitter_username:
