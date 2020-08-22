@@ -22,7 +22,7 @@ url: "https://lang2dev.github.io/"
 author:
   name: YIKyeongEun
   twitter:
-  picture:
+  picture: /assets/images/profile.jpg
 twitter_username:
 github_username: lang2dev
 logo: "/assets/images/logo.jpg" # path of site logo, e.g. "/assets/images/logo.png"
