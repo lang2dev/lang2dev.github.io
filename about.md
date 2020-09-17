@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-<center><img src="/assets/images/profile.jpg" width="300" height="300"></center>
+<center><img src="/assets/images/profile.jpg" width="300" height="400"></center>
 
 ## 소개
 
