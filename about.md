@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-![title](/assets/images/profile.jpg){: width="50%" height="50%"}
+<center><img src="/assets/images/profile.jpg" width="300" height="300"></center>
 
 ## 소개
 
