@@ -3,6 +3,8 @@ title: "About"
 layout: about
 ---
 
+![title](/assets/images/profile.jpg){: width="50%" height="50%"}
+
 ## 소개
 
 * 안녕하세요 이경은이라고 합니다. 현재 대학생이며 전공은 국어입니다.
